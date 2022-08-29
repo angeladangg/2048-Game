@@ -1,7 +1,6 @@
 # connectfour.py
-#
-# ICS 32 Winter 2022
-# Project #2: Send Me On My Way
+# full credit to Alex Thornton, ICS 32
+# I do not own this module
 
 '''
 This module contains the game logic that underlies a Connect Four
