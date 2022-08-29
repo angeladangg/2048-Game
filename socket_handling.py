@@ -1,7 +1,7 @@
 import socket
 from collections import namedtuple
 
-
+'''This module handles opening, closing, and operation within the socket'''
 Game = namedtuple('Game',['socket','input','output'])
 class ProtocolError(Exception):
     pass
