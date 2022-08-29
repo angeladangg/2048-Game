@@ -1,5 +1,5 @@
 # connectfour.py
-# full credit to Alex Thornton, ICS 32
+# full credit to programmer Alex Thornton
 # I do not own this module
 
 '''
