@@ -3,9 +3,6 @@ from collections import namedtuple
 
 
 Game = namedtuple('Game',['socket','input','output'])
-#port = 4444
-#host = "circinus-32.ics.uci.edu"
-
 class ProtocolError(Exception):
     pass
 
