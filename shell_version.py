@@ -1,6 +1,6 @@
-#Angela Dang 80841454
 import connectfour
 import gamefunctions
+'''This module contains the functionalities of the game that can be played without connecting to a server'''
 #RED = 1
 #YELLOW = 2
 
